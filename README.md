@@ -11,7 +11,7 @@
 
 ## Description:
 
-- Refer [CodeKata](http://codekata.com/kata/kata09-back-to-the-checkout/) for complete Problem Description
+- Refer [CodeKata](http://codekata.com/kata/kata09-back-to-the-checkout/) for the complete Problem Description
 - Summary of problem
 
   - Individual letters of the alphabet (A, B, C, and so on) are used to identify goods/items in a store.
@@ -40,13 +40,13 @@ kata-09
 │   │   └───java
 │   │       └───com.codekata.kataNine
 │   │       │       ├───CheckOut.java
-│   │       │       └───KataApp.java      <-- use KataNineUtil to set up CheckOut
+│   │       │       └───KataApp.java      <-- uses KataNineUtil to set up CheckOut
 │   │       │
 │   │       ├───com.codekata.model
 │   │       │       └───PricingRule.java
 │   │       │
 │   │       └───com.codekata.util
-│   │               └───KataNineUtil.java <-- Define pricing rules here
+│   │               └───KataNineUtil.java <-- define pricing rules here
 │   │
 │   └───test
 │       └───java
