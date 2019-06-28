@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-#### _[Description](#description)_
-#### _[Architecture](#architecture)_
-#### _[Usage](#usage)_
-#### _[Test-driven development](#test-driven-development)_
-#### _[Code](#code)_
-#### _[Technologies Used](#technologies-used)_
+- _[Description](#description)_
+- _[Architecture](#architecture)_
+- _[Usage](#usage)_
+- _[Test-driven development](#test-driven-development)_
+- _[Code](#code)_
+- _[Technologies Used](#technologies-used)_
 
 ## Description:
 
